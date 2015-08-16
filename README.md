@@ -7,7 +7,7 @@ Welcome. Join Us. Free. No Database Required - Just Some YAML ;-)
 
 Step 1: Add yourself to the member list, that is, [members.yml](members.yml). Example:
 
-```
+``` yaml
 - name:    Henry Jekyll                 # your name (required)
   github:  henryj                       # your github handle (required)
   web:     drjkeylls.com                # blog or website address/url (optional)
