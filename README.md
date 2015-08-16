@@ -21,4 +21,4 @@ That's it. Thanks! Wait for the next site update to get listed on the members pa
 
 ## Questions? Comments?
 
-For now (until we find something better) send them to our twitter account, that is, [viennahtml](http://twitter.com/vienna.html). Thanks!
+For now (until we find something better) send them to our twitter account, that is, [viennahtml](http://twitter.com/viennahtml). Thanks!
