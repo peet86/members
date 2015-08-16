@@ -30,7 +30,7 @@ A: Sorry. No. We will use a GitHub org (you're looking at the org ;-) for signup
 A: See above e.g. add yourself and send in a pull request. Your pull request gets merged and you will also get
 an invitation (by email from GitHub) to join the Vienna.html org as a member. If you accept, you can edit the
 members.yml file in your browser - no longer any need for a pull request - and you will show up in the 
-[people page](https://github.com/orgs/substance/people) too (if you set your preference
+[people page](https://github.com/orgs/viennahtml/people) too (if you set your preference
 to public - default is private). 
 
 
